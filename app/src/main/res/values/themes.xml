@@ -1,8 +1,8 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.KuyRakit" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.KuyRakit" parent="Theme.AppCompat.DayNight.DarkActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#2B44E3</item>
     </style>
 
     <style name="Theme.KuyRakit" parent="Base.Theme.KuyRakit" />
